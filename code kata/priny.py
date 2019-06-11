@@ -1,2 +1,2 @@
 a = int(input())
-print("HELLO \n" * a)
+print("Hello\n" * a)
