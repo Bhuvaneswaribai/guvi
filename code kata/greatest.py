@@ -1,4 +1,4 @@
-n1,n2,n3= input() input() input()
+n1,n2,n3= input(),input(),input()
 if (n1 >n2) and (n1 >n3):
    largest = n1
 elif (n2 >n1) and (n2 >n3):
