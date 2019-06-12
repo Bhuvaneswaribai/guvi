@@ -1,11 +1,10 @@
 n, b = input().split() 
 n = int(n)
 b = int(b)
-for num in range(n+1,b, 1):
-   # prime numbers are greater than 1
-   if num > 1:
-       for i in range(2,num):
-           if (num % i) == 0:
+for nu in range(n+1,b, 1):
+   if nu > 1:
+       for i in range(2,nu):
+           if (nu % i) == 0:
                break
        else:
            print(num)
