@@ -7,5 +7,5 @@ for nu in range(n+1,b, 1):
            if (nu % i) == 0:
                break
        else:
-           print(num)
+           print(nu)
   
