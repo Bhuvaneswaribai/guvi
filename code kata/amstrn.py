@@ -6,4 +6,4 @@ for f in range(h+1,j):
     li=[i**w for i in l]
     k=sum(li)
     if(k==f):
-        print(k,end'')
+        print(k,end=' ')
