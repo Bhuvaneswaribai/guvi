@@ -1,5 +1,5 @@
 h,u = input().split()
-h = str(h)
+h = (h)
 u = int(u)
 for i in range(u):
   print(h)
