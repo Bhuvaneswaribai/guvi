@@ -1,6 +1,6 @@
-1u=input()
+l1u=input()
 v=[]
-for i in 1u:
+for i in l1u:
   if(i.isnumeric()):
     v.append(i)
 print(*v,sep='')
