@@ -1,0 +1,2 @@
+bhuvi = input()
+print(bhuvi)
